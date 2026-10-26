@@ -1,0 +1,6 @@
+"./Src/Led.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/vibration_model.o"
+"./Startup/startup_stm32f407vgtx.o"

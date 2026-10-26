@@ -1,0 +1,2 @@
+../Src/Led.c:5:6:setgpiopin_state	24	static
+../Src/Led.c:18:7:initialize_gpiocpin	24	static
